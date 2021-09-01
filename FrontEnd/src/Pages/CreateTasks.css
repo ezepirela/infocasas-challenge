@@ -1,0 +1,8 @@
+#FormComponent__title{
+    display: block;
+    margin-bottom: 20px;
+}
+.FormComponent{
+    display: flex;
+    flex-direction: column;
+}

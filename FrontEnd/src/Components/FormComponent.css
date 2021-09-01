@@ -1,0 +1,25 @@
+#priority {
+    width: 50%;
+}
+.Form__footer{
+    display: flex;
+    justify-content: space-between;
+}
+.Form__buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+#FormComponent{
+    width: 100%;
+}
+.FormComponent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+#date {
+    background-color: white;
+    border: none
+}
