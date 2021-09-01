@@ -41,6 +41,7 @@ function TasksItem({ data, changeStatus, notIcons }) {
                 inline
                 name="group"
                 type='switch'
+                checked={data.completed}
                 style={{backgroundColor: 'inherit'}}
                 onClick={handleClick}
             />)}
